@@ -1,0 +1,20 @@
+[
+    {
+        "name": "John Doe",
+        "salary": 10000,
+        "revenue_boost": 0.1,
+        "profit_margin_boost": 0.05
+    },
+    {
+        "name": "Jane Smith",
+        "salary": 15000,
+        "revenue_boost": 0.15,
+        "profit_margin_boost": 0.1
+    },
+    {
+        "name": "Bob Jones",
+        "salary": 20000,
+        "revenue_boost": 0.2,
+        "profit_margin_boost": 0.15
+    }
+]

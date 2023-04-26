@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Car Manufacturer",
+        "startup_capital": 750000,
+        "revenue": 7500,  
+        "profit_margin": 0.3  
+    },
+    {
+        "name": "Construction",
+        "startup_capital": 500000,
+        "revenue": 5000,  
+        "profit_margin": 0.2  
+    },
+    {
+        "name": "Dropshipping",
+        "startup_capital": 1000,
+        "revenue": 250,  
+        "profit_margin": 0.01  
+    }
+]

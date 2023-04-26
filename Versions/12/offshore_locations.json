@@ -1,0 +1,42 @@
+[
+    {
+        "name": "St Kitts and Nevis",
+        "setup_cost": 15000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Cook Islands",
+        "setup_cost": 20000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Ireland",
+        "setup_cost": 25000,
+        "tax_rate": 12.5
+    },
+    {
+        "name": "Isle of Man",
+        "setup_cost": 30000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Jersey",
+        "setup_cost": 35000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Panama",
+        "setup_cost": 40000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Belize",
+        "setup_cost": 45000,
+        "tax_rate": 0.0
+    },
+    {
+        "name": "Cyprus",
+        "setup_cost": 50000,
+        "tax_rate": 12.5
+    }
+]
